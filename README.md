@@ -1,6 +1,6 @@
-# Vite + Alpinejs template
+# Vite + AlpineJS template
 
-Simple Vite template based on vanilla js
+Simple Vite template for AlpineJS based on vanilla JS. Added support for </>htmx as well.
 
 ## Installation
 
@@ -13,9 +13,9 @@ npm run dev
 
 ## Additional info
 
-+ Read documentation for [Vite․js](http://vitejs.dev/) and [Alpine․js](https://alpinejs.dev/)
++ Read documentation for [Vite.js](http://vitejs.dev/), [Alpine.js](https://alpinejs.dev/), and [</>htmx](https://htmx.org/)
 
-+ Project root is in **src** (sub)directory
++ Project root is **src** (sub)directory
 
 + Build output is in **dist** (sub)directory
 
